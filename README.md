@@ -16,7 +16,7 @@
 
 ## 🌐 Demo en vivo
 Puedes probar la aplicación aquí:
-[👉 HAZ CLIC AQUÍ PARA VER LA APP](TU_LINK_DE_GITHUB_PAGES_AQUÍ)
+[👉 HAZ CLIC AQUÍ PARA VER LA WEB](https://adriandev131.github.io/devtrans-pro/)
 
 ---
 Desarrollado con ❤️ por **Adrián**
